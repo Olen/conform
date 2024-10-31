@@ -1,4 +1,4 @@
-module github.com/siderolabs/conform
+module github.com/Olen/conform
 
 go 1.22
 
