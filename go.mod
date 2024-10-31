@@ -1,6 +1,6 @@
 module github.com/siderolabs/conform
 
-go 1.22.0
+go 1.22
 
 require (
 	github.com/denormal/go-gitignore v0.0.0-20180930084346-ae8ad1d07817
